@@ -1,0 +1,17 @@
+commit 9c40dc3357e7bad8d016d4f44aa6f541fa08d227
+Author: Alma Delia Delgadillo Carrillo <almaddc16@gmail.com>
+Date:   Sun Jun 17 18:15:55 2018 -0600
+
+    Modifique el index
+
+commit e522950645ab18af3b1b1b18f2b13320aac58735
+Author: Alma Delia Delgadillo Carrillo <almaddc16@gmail.com>
+Date:   Sun Jun 17 17:58:51 2018 -0600
+
+    cambie los titulos de las tarjetas de descripcion
+
+commit 801cb69c463c8c18324bf5f24b9bb4122b29d893
+Author: Alma Delia Delgadillo Carrillo <almaddc16@gmail.com>
+Date:   Sun Jun 17 17:53:30 2018 -0600
+
+    Iniciamos
